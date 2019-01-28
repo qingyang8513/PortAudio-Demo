@@ -10,7 +10,7 @@ This demos are tested in Raspberry Pi 3B+. Every part is running in the environm
 ### paGetDeviceInfo
   This demo used to get device informations in you hardware, displays detials including all devices, default input device and default output device.  
 ### paRecord
-   his demo used to record audio and saved to a file, using some cmd below.  
+   This demo used to record audio and saved to a file, using some cmd below.  
 ```
 Usage: Demo [OPTION]... [FILE]...  
   
