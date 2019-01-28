@@ -10,7 +10,7 @@ PortAudio demos running in Raspberry Pi.
   This demo used to get device informations in you hardware, displays detials including all devices, default input device and default output device.  
 ### paRecord
    his demo used to record audio and saved to a file, using some cmd below.  
-'''  
+```
 Usage: Demo [OPTION]... [FILE]...  
   
 -h,--help      show help information  
@@ -20,4 +20,4 @@ Usage: Demo [OPTION]... [FILE]...
                U8 S8 S16_LE S24_LE S32_LE F32  
 -c,--channel   channels to record  
 -s,--second    time to record in second  
-'''  
+```
