@@ -22,3 +22,7 @@ Usage: Demo [OPTION]... [FILE]...
 -c,--channel   channels to record  
 -s,--second    time to record in second  
 ```
+Eg.  
+```
+./parecord -r 16000 -c 2 -f S16_LE -s 5 1.pcm
+```
